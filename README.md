@@ -1,4 +1,4 @@
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&weight=900&size=50&letterSpacing=big&pause=1000&color=F74F1D&background=9CFF2A00&center=true&vCenter=true&random=true&width=435&lines=Khaled+Mohamed)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&weight=900&letterSpacing=big&pause=1000&color=11F736&background=9CFF2A00&center=true&vCenter=true&random=true&width=435&lines=Front+-End+Developer+%2F+UIUX+Developer)](https://git.io/typing-svg)
 
