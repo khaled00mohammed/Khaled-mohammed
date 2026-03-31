@@ -1,7 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&weight=900&size=50&letterSpacing=big&pause=1000&color=F7820F&background=9CFF2A00&center=true&vCenter=true&random=true&width=435&lines=Khaled+Mohamed)](https://git.io/typing-svg)
 
-👋 Hi, I’m Khaled Mohamed
- 💻 Frontend Developer & UI/UX Designer
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&weight=900&letterSpacing=big&pause=1000&color=11F736&background=9CFF2A00&center=true&vCenter=true&random=true&width=435&lines=Front+-End+Developer+%2F+UIUX+Developer)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working on **creative web projects**
 - 🌱 I’m learning **React, Tailwind CSS & Figma**
